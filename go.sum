@@ -1,0 +1,8 @@
+github.com/kichibeii/benchmark-tool v0.1.0 h1:4J3iPB+M2AK7SaCwXwXlPNkU7irOIAzwazEbUD0HZRI=
+github.com/kichibeii/benchmark-tool v0.1.0/go.mod h1:42NFfXPprSYce8Nm5QNB092d8sDGJNWF0qKNETUZook=
+github.com/kichibeii/benchmark-tool v0.2.0 h1:hVE/jGmjjjkiEfIGeNGJEbkysRJDZY6TCbpKFj5qO28=
+github.com/kichibeii/benchmark-tool v0.2.0/go.mod h1:42NFfXPprSYce8Nm5QNB092d8sDGJNWF0qKNETUZook=
+github.com/kichibeii/benchmark-tool v0.4.0 h1:Skok/I4AjbRWkM5Z1ND0Db6OTwjKqRoSjtj8Txmo4Ec=
+github.com/kichibeii/benchmark-tool v0.4.0/go.mod h1:42NFfXPprSYce8Nm5QNB092d8sDGJNWF0qKNETUZook=
+golang.org/x/exp v0.0.0-20240909161429-701f63a606c0 h1:e66Fs6Z+fZTbFBAxKfP3PALWBtpfqks2bwGcexMxgtk=
+golang.org/x/exp v0.0.0-20240909161429-701f63a606c0/go.mod h1:2TbTHSBQa924w8M6Xs1QcRcFwyucIwBGpK1p2f1YFFY=
